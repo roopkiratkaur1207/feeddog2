@@ -1,0 +1,19 @@
+h1{
+    color:orange;
+}
+.surrounding{
+    border:solid;
+}
+.header{
+    background-color: cornsilk;
+    display:flex;
+    justify-content:space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+.item{
+    position:relative;
+}
